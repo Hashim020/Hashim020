@@ -8,18 +8,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## About Me
 
 - 🔭 I’m currently working on improving my skills in full-stack development.
-- 🌱 I’m learning new technologies and frameworks like React, Node.js, and Python.
-- 👯 I’m looking to collaborate on open-source projects and exciting tech innovations.
-- 🤔 I’m seeking help with mastering algorithms and data structures.
+- 🌱 I’m learning new technologies and frameworks like Next.js, NestJS,Docker,Microservices and Kubernetes.
 - 💬 Ask me about web development, JavaScript, or anything tech-related.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I enjoy playing chess and exploring new places.
+- 📫 How to reach me: [Your Email](mailto:ma.hashim200@gmail.com)
+- ⚡ Fun fact: I enjoy reading books and exploring new places.
 
 ## Skills
 
 ### Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -36,18 +34,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## Projects
 
 ### Project 1
-[Project Name](https://github.com/Hashim020/project-name)
+[ViewFinder](https://github.com/Hashim020/ViewFinder.git)
 - Brief description of the project and its purpose.
 - Technologies used: Python, Flask, SQLAlchemy.
 
 ### Project 2
-[Project Name](https://github.com/Hashim020/project-name)
-- Brief description of the project and its purpose.
-- Technologies used: React, Node.js, MongoDB.
+[Ebuy](https://github.com/Hashim020/Ebuy.git)
+- Ecommerce(Electronic device selling) Web Application.
+- Technologies used: Ejs, Node.js, MongoDB, Express.Js.
 
 ## GitHub Stats
 
-![Hashim020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashim020&show_icons=true&theme=radical)
+![Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashim020&show_icons=true&theme=tokyonight&custom_title=Welcome%20to%20Hashim's%20GitHub%20Stats&hide_border=true&text_color=ffffff&bg_color=0d1117)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashim020&layout=compact&theme=radical)
 
