@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ### Project 1
 [ViewFinder](https://github.com/Hashim020/ViewFinder.git)
 - Brief description of the project and its purpose.
-- Technologies used: Python, Flask, SQLAlchemy.
+- Technologies used: React.js,Node.js,MongoDB, Express.js, Nodemailer,
 
 ### Project 2
 [Ebuy](https://github.com/Hashim020/Ebuy.git)
