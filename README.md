@@ -60,6 +60,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
