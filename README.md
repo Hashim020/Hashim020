@@ -1,4 +1,4 @@
-# Hi there, I'm Hashim! 👋
+# Hi there, I'm Hashim! 👋👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hashim020&label=Profile%20views&color=yellowgreen&style=flat" alt="Hashim020" /> </p>
 
@@ -71,7 +71,7 @@ An e-commerce platform for browsing and purchasing electronic devices, with serv
 
 ![](https://github-contributor-stats.vercel.app/api?username=Hashim020&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashimma)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ma.hashim200@gmail.com)
