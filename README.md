@@ -15,9 +15,18 @@ I'm a full-stack developer focused on building reliable, end-to-end web apps wit
   ---
 ## Github Contributions Snake Game
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Hashim020/Hashim020/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Hashim020/Hashim020/output/github-snake.svg"
+  />
+  <img
+    alt="github-snake"
+    src="https://raw.githubusercontent.com/Hashim020/Hashim020/output/github-snake.svg"
+  />
 </picture>
 
 
