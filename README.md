@@ -12,6 +12,15 @@ I'm a full-stack developer focused on building reliable, end-to-end web apps wit
 - 📫 Reach me at [ma.hashim200@gmail.com](mailto:ma.hashim200@gmail.com)
 - ⚡ Fun fact: I enjoy reading books and exploring new places
 
+  ---
+## Github Contributions Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
