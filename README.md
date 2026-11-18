@@ -1,6 +1,5 @@
 ![Header image](./assets/hero.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hashim020&label=Profile%20views&color=yellowgreen&style=flat" alt="Hashim020" /> </p>
 
 I'm a full-stack developer focused on building reliable, end-to-end web apps with the MERN stack and GraphQL — from data models to polished UIs.
 
@@ -12,6 +11,7 @@ I'm a full-stack developer focused on building reliable, end-to-end web apps wit
 - 📫 Reach me at [ma.hashim200@gmail.com](mailto:ma.hashim200@gmail.com)
 - ⚡ Fun fact: I enjoy reading books and exploring new places
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hashim020&label=Profile%20views&color=yellowgreen&style=flat" alt="Hashim020" /> </p>
   ---
 ## Github Contributions Snake Game
 <picture>
